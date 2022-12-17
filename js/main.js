@@ -36,8 +36,8 @@ const cardObject = [
     description:
       "You can have a great experience making ziplining in 1000 viviendas towers while neighbors hit you with tomatoes and lettuces.",
     langs: ["Doraemon", "Copyright", "Reserve"],
-    gitLink: "#",
-    srcLink: "#",
+    gitLink: "https://www.youtube.com/watch?v=KJnbTQqzsag&t",
+    srcLink: "https://www.youtube.com/watch?v=KJnbTQqzsag&t",
   },
   {
     id: 2,
