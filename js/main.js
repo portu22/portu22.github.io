@@ -59,12 +59,12 @@ const cardObject = [
     title: "Torremanzana's municipal pool",
     subTitle: "",
     imageMobile:
-      "https://prnt.sc/u3x-ilIthLdB",
+      "https://www.bing.com/images/blob?bcid=RHooAJaL9QYFqxcxoNWLuD9SqbotqVTdP8A",
     imageDesktop:
-      "https://prnt.sc/u3x-ilIthLdB",
+      "https://www.bing.com/images/blob?bcid=RHooAJaL9QYFqxcxoNWLuD9SqbotqVTdP8A",
     details: ["Chill", "Relaxing","Multiplayer","Only VR"],
     description:
-      "texto de prueba.",
+      "In the municipal swimming pool of Torremanzanas you can have a great time pretending that you are in a heated pool, yakuzzi or simply swimming with your friends or having water fights!",
     langs: ["Doraemon", "Copyright", "Reserve"],
     gitLink: "https://www.youtube.com/watch?v=wohwc9MQt6A",
     srcLink: "https://www.youtube.com/watch?v=wohwc9MQt6A",
@@ -74,13 +74,13 @@ const cardObject = [
     title: "Rafting in Villaverde mojinas",
     subTitle: "",
     imageMobile:
-      "https://prnt.sc/-7RUZICKoMqU",
+      "https://www.bing.com/images/blob?bcid=RLHkokvFqwYFqxcxoNWLuD9SqbotqVTdP2U",
 
     imageDesktop:
-      "https://prnt.sc/-7RUZICKoMqU",
+      "https://www.bing.com/images/blob?bcid=RLHkokvFqwYFqxcxoNWLuD9SqbotqVTdP2U",
     details: ["Chill", "Exciting","Amazing", "Multiplayer", "VR And 1 Person"],
     description:
-      "texto de prueba.",
+      "In the Villaverde Mojines river you can go rafting with your friends and have fun adventures while you go down the river, be careful as you could fall!",
     langs: ["Doraemon", "Copyright", "Reserve"],
     gitLink: "https://www.youtube.com/watch?v=wohwc9MQt6A",
     srcLink: "https://www.youtube.com/watch?v=wohwc9MQt6A",
