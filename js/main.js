@@ -44,12 +44,12 @@ const cardObject = [
     title: "San roque's festival",
     subTitle: "",
     imageMobile:
-      "https://prnt.sc/YHbAGw1DdpqG",
+      "https://www.bing.com/images/blob?bcid=RIDIxX9YfgYFOg",
     imageDesktop:
-      "https://prnt.sc/YHbAGw1DdpqG",
+      "https://www.bing.com/images/blob?bcid=RIDIxX9YfgYFOg",
     details: ["Exciting", "Happy", "Only VR"],
     description:
-      "texto de prueba.",
+      "At the San Roque festival you can have a fun and hectic adventure in which you will have things like a dance simulator, you can drink all kinds of drinks and even a fight. (Everything is safe and at no time do you have any risk)",
     langs: ["Doraemon", "Copyright", "Reserve"],
     gitLink: "https://www.youtube.com/watch?v=wohwc9MQt6A",
     srcLink: "https://www.youtube.com/watch?v=wohwc9MQt6A",
