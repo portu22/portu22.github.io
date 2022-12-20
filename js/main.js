@@ -59,9 +59,9 @@ const cardObject = [
     title: "Torremanzana's municipal pool",
     subTitle: "",
     imageMobile:
-      "https://www.bing.com/images/blob?bcid=RHooAJaL9QYFqxcxoNWLuD9SqbotqVTdP8A",
+      "https://onda15.es/wp-content/uploads/2022/06/img-20220623-wa0012.jpg",
     imageDesktop:
-      "https://www.bing.com/images/blob?bcid=RHooAJaL9QYFqxcxoNWLuD9SqbotqVTdP8A",
+      "https://onda15.es/wp-content/uploads/2022/06/img-20220623-wa0012.jpg",
     details: ["Chill", "Relaxing","Multiplayer","Only VR"],
     description:
       "In the municipal swimming pool of Torremanzanas you can have a great time pretending that you are in a heated pool, yakuzzi or simply swimming with your friends or having water fights!",
