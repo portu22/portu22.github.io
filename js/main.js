@@ -74,10 +74,9 @@ const cardObject = [
     title: "Rafting in Villaverde mojinas",
     subTitle: "",
     imageMobile:
-      "https://www.bing.com/images/blob?bcid=RLHkokvFqwYFqxcxoNWLuD9SqbotqVTdP2U",
-
+      "https://media.discordapp.net/attachments/951114984451104778/1054662706378063962/image0.jpg",
     imageDesktop:
-      "https://www.bing.com/images/blob?bcid=RLHkokvFqwYFqxcxoNWLuD9SqbotqVTdP2U",
+      "https://media.discordapp.net/attachments/951114984451104778/1054662706378063962/image0.jpg",
     details: ["Chill", "Exciting","Amazing", "Multiplayer", "VR And 1 Person"],
     description:
       "In the Villaverde Mojines river you can go rafting with your friends and have fun adventures while you go down the river, be careful as you could fall!",
